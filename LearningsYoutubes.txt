@@ -2,3 +2,5 @@ playright :https://www.youtube.com/watch?v=IB2P1FBXjcQ&list=PLhW3qG5bs-L9sJKoT1L
 
 cypress :https://www.youtube.com/watch?v=bpuEAzYDTy4&list=PLL34mf651faP_cOOErNUi33GeRHhr2QsP
 
+
+WebSeite : https://automationstepbystep.com/
