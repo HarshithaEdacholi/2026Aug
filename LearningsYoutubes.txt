@@ -1,6 +1,9 @@
 playright :https://www.youtube.com/watch?v=IB2P1FBXjcQ&list=PLhW3qG5bs-L9sJKoT1LC5grGT77sfW0Z8&index=2
 
-cypress :https://www.youtube.com/watch?v=bpuEAzYDTy4&list=PLL34mf651faP_cOOErNUi33GeRHhr2QsP
-
+cypress :1. https://www.youtube.com/watch?v=bpuEAzYDTy4&list=PLL34mf651faP_cOOErNUi33GeRHhr2QsP
+         2:https://www.youtube.com/watch?v=1YX_URZr9mM&list=PLhW3qG5bs-L9LTfxZ5LEBiM1WFfvX3dJo&index=19
 
 WebSeite : https://automationstepbystep.com/
+
+
+WebActions : https://www.youtube.com/watch?v=YWEqHQucvEs&list=PLhW3qG5bs-L9LTfxZ5LEBiM1WFfvX3dJo&index=15
