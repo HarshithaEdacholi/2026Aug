@@ -10,3 +10,13 @@ WebSeite : https://automationstepbystep.com/
 WebActions : https://www.youtube.com/watch?v=YWEqHQucvEs&list=PLhW3qG5bs-L9LTfxZ5LEBiM1WFfvX3dJo&index=15
 
 Pending : try this web actions + learn element interactions as well.
+
+
+
+
+
+
+List To attend :
+
+1.https://www.deeplearning.ai/courses/chatgpt-prompt-eng?utm_source=chatgpt.com
+2.https://academy.openai.com/?utm_source=chatgpt.com
