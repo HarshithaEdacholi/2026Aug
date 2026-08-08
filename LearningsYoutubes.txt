@@ -8,10 +8,13 @@ cypress :1. https://www.youtube.com/watch?v=bpuEAzYDTy4&list=PLL34mf651faP_cOOEr
 WebSeite : https://automationstepbystep.com/
 
 
+
+
 WebActions : https://www.youtube.com/watch?v=YWEqHQucvEs&list=PLhW3qG5bs-L9LTfxZ5LEBiM1WFfvX3dJo&index=15
 
 Pending : try this web actions + learn element interactions as well.
           cypress file download an upload has some code issues to fix
+mahcaswesomereport : https://www.youtube.com/watch?v=J9AHVKNDkDU&list=PLhW3qG5bs-L9LTfxZ5LEBiM1WFfvX3dJo&index=14
 
 
 
